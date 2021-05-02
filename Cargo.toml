@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 oorandom = "11.1.2"
+support = { path = "support" }
+panic-halt = "0.2"
